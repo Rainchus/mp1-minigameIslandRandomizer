@@ -1,4 +1,6 @@
-# mp1 MinigameIslandRandomizer
+# Patching
+Download the bps patch in the releases tab, then take a .z64 mario party 1 US ROM and patch it with this site:</br>
+`https://hack64.net/tools/patcher.php`
 
 # Building
 The building process currently uses a simple batch file</br>
