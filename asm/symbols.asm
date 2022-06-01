@@ -14,6 +14,11 @@
 .definelabel rngSeed, 0x800C2FF4
 .definelabel LoadOverlay, 0x800175C0
 .definelabel loadedMinigame, 0x800ED5DE
+.definelabel playersMain, 0x800F32B0
+
+//choose minigame based on space value 800F665C
+
+//800D8984 if set to 2, load minigame instantly
 
 //custom data
 .definelabel chosenMinigame, 0x803FFFF8
