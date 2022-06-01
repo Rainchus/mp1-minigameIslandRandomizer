@@ -11,9 +11,9 @@ s16 coinRequirementsForWinning[] = {
 0x000A, //BURIED_TREASURE
 0x000A, //TREASURE_DIVERS
 0x000A, //SHELL_GAME
-0x000A, //UNUSED_MINIGAME_0 (wiggler minigame)
+0x000A, //UNUSED_MINIGAME_0 (wiggler minigame, becomes slot car derby 1?)
 0x0005, //HOT_BOB_OMB
-0x0000, //UNUSED_MINIGAME_1 (puzzle with colors minigame)
+0x000A, //UNUSED_MINIGAME_1 (puzzle with colors minigame, becomes slot car derby 2?)
 0x000A, //PIPE_MAZE
 0x000A, //GHOST_GUESS
 0x000A, //MUSICAL_MUSHROOM
